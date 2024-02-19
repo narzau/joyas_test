@@ -1,0 +1,49 @@
+{
+  "name": "felice",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-regular-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mercadopago/sdk-react": "^0.0.15",
+    "@mui/material": "^5.14.11",
+    "@tanstack/react-query": "^4.33.0",
+    "autoprefixer": "10.4.15",
+    "bcrypt": "^5.1.1",
+    "cookie": "^0.5.0",
+    "firebase": "^10.4.0",
+    "har-validator": "^5.1.5",
+    "jose": "^4.15.1",
+    "js-cookie": "^3.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "mercadopago": "^1.5.17",
+    "mongodb": "^6.3.0",
+    "mongoose": "^7.5.0",
+    "next": "^13.5.6",
+    "nodemailer": "^6.9.9",
+    "postcss": "8.4.28",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-responsive-carousel": "^3.2.23",
+    "request": "^2.88.2",
+    "sonner": "^1.0.3",
+    "swr": "^2.2.4",
+    "tailwindcss": "3.3.3",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "encoding": "^0.1.13",
+    "typescript": "5.3.2"
+  }
+}
